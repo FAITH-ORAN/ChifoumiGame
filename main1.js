@@ -9,7 +9,7 @@ for (let i = 0; i < buttons.length; i++) {//j'ai créé une loop je l'ai initial
     var gamer1 = buttons[i].innerHTML;//j'ai déclaré des variables locales le innerHtml accede au contenu
     var gamer2 = buttons[Math.floor(Math.random() * buttons.length)].innerHTML;//math random il génére alétoirement des nombres
     let result = "";
-    // resultat.innerHTML = joueur + "       " + robot;
+ 
     if (gamer1===gamer2) {
       result = "Egalité";
     }

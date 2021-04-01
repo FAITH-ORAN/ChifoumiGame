@@ -1,0 +1,10 @@
+
+#box {
+    background-image: url("https://dailygeekshow.com/wp-content/uploads/2018/09/Une-pierre-feuille-ciseaux.jpg");
+    color:blue;
+    text-align : center ;
+    font-size: large;
+    font-weight: bold;
+    padding : 10px;
+    height:30em;
+  }
